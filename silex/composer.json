@@ -1,0 +1,13 @@
+{
+    "name": "root/silex",
+    "description": "learn build api using silex",
+    "require": {
+        "silex/silex": "~2.0"
+    },
+    "authors": [
+        {
+            "name": "puterakahfi",
+            "email": "puterakahfi@gmail.com"
+        }
+    ]
+}
